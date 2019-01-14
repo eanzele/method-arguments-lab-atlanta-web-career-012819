@@ -1,2 +1,2 @@
-def instruction
+def instruction (name)
 end
