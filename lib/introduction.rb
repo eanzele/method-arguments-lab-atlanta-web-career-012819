@@ -1,5 +1,5 @@
 def instruction (name)
-  puts "Hi , my name is #{name}."
+  puts "Hi, my name is #{name}."
 end
 
 def instruction_with_language (name, language)
